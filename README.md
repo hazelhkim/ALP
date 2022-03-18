@@ -4,7 +4,7 @@ This repository is for the paper: [**ALP**:_Data **A**ugmentation using **L**exi
 
 To run the ALP method with semi-supervised learning, run **run_alp_st.py**. It augments given data using ALP and trains a classic self-training classifier to test the classification performance. You can modify **aug_alp.py** to solely use the ALP method for different purposes than our few-shot text classification task.
 
-In this paper, we introduce a data augmentation method (i.e. _**ALP**_) and a splitting scheme of training and validation sets (i.e. _**AugTrain-Train**_) to perform well in low-resource settings:
+In this paper, we introduce a data augmentation method (_i.e. **ALP**_) and a splitting scheme of training and validation sets (_i.e. **AugTrain-Train**_) to perform well in low-resource settings:
 
 
 
