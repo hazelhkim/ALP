@@ -7,7 +7,7 @@ To run the ALP method with semi-supervised learning, run **run_alp_st.py**. It a
 In this paper, we introduced data augmentation method and splitting schemes of training and validation sets to perform well in low-resource settings:
 
 ### Overview of ALP Method
-<img width="700" alt="ALP" src="ALP.png">
+<img width="800" alt="ALP" src="ALP.png">
 
 
 ### Overview of AugTrain-Train Method
