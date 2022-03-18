@@ -9,7 +9,7 @@ In this paper, we introduced data augmentation method (i.e. _**ALP**_) and split
 
 
 ### Overview of ALP Method
-<img width="800" alt="ALP" src="ALP.png">
+<img width="850" alt="ALP" src="ALP.png">
 
 
 
