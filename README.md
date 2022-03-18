@@ -8,7 +8,7 @@ In this paper, we introduced data augmentation method and splitting schemes of t
 
 - Overview of ALP Method
 [ALP.pdf](https://github.com/hazelhkim/ALP/blob/main/ALP.pdf)
-<img width="844" alt="Screen Shot 2019-09-23 at 6 31 44 PM" src="https://github.com/hazelhkim/ALP/blob/main/ALP.pdf">
+<img width="844" alt="augTrain-TrainM" src="AugTrain-Train.png">
 
 
 - Overview of AugTrain-Train Method
