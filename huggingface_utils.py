@@ -1,7 +1,3 @@
-"""
-Originated from the code for uncertainty-aware self-training for few-shot learning by Subho Mukherjee (submukhe@microsoft.com)
-"""
-
 from transformers import *
 
 # HuggingFace Transformers has a unified API
